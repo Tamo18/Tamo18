@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tamojit Saha</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate full-stack developer and data analysis enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.vectorstock.com/i/500p/18/52/programmer-coder-web-developer-or-software-vector-22631852.jpg"/>
 
 - 🌱 I’m currently learning **React,Python**
