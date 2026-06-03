@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **tamojitsahalm@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WDYko75Rtzddxof3bQMsyJ2xMneQUOTF/view?usp=sharing)
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1WDYko75Rtzddxof3bQMsyJ2xMneQUOTF/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am weird**
 
